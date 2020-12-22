@@ -1,3 +1,17 @@
+#Django 웹프레임워크 구축하기
+
+sudo apt install python3
+sudo apt install python3-pip
+sudo atp install python3-django
+
+//가상화 내용 추가하기
+
+Django-admin startproject {프로젝트명}
+
+{프로젝트명} 디렉토리 내 manage.py가 있는 곳에서
+python3 manage.py runserver
+
+
 #filebrowser 어플리케이션 적용
 
 Django-filebrowser : https://github.com/sehmaschine/django-filebrowser
